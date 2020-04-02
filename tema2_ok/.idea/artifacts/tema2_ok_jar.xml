@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tema2_ok:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tema2_ok_jar</output-path>
+    <root id="archive" name="tema2_ok.jar">
+      <element id="module-output" name="tema2_ok" />
+    </root>
+  </artifact>
+</component>
